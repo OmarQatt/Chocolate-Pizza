@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: auto;
+    margin-top: 40px;
+    width: 850px;
+}
+
+.header-container {
+    position: relative;
+}
+
+footer {
+    position: relative;
+}
+
+.title-logo {
+    position: relative;
+
+}
+
+.logo {
+    font-size: 22px;
+    color: white;
+    padding: 15px 15px;
+    background-color: #eeecec;
+    align-items: center;
+}
+
+.text-logo {
+    font-family: 'Yellowtail', cursive;
+    font-size: 47px;
+    position: absolute;
+    bottom: 4px;
+    left: 55px;
+}
+
+.about-page {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #515a7b;
+    font-size: 12px;
+    position: absolute;
+    left: 63px;
+    top: 22px;
+}
+
+.stickyicon-list {
+    position: absolute;
+    right: 65px;
+    top: 10px;
+}
+
+main {
+    position: relative;
+}
+
+.Title {
+    width: 100%;
+    position: absolute;
+    top: 50px
+}
+
+.Title h1 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 50px;
+}
+.print {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: #A8A8AE;
+}
+
+.print-icon {
+    font-size: smaller;
+    color: #A8A8AE;
+}
+
+.container-section {
+    width: 100%;
+    position: absolute;
+    top: 158px;
+}
+
+.text-title {
+    line-height: 1.5;
+    font-family: 'Noto Serif KR', serif;
+    color: #858571;
+    font-size: 19.5px;  
+}
+
+.ingredients {
+    background-image: url("assets/list-bg.png");
+    font-family:cursive;
+    font-size: 21px;
+    color: #886A4A;
+    margin-top:160px;
+    width: 100%;
+    height: 350px;
+}
+
+.left-side {
+    position: absolute;
+    top: 1091px;
+    left: 80px;
+}
+
+.right-side {
+    position: absolute;
+    top: 1091px;
+    left: 470px;
+}
+
+.cancle-item {
+  text-decoration: line-through;
+  font-size: 25px;
+}
+
+.footer {
+    position: relative;
+    top: 1590px;
+}
+.copyrights-name {
+    color: #4d4a47dc;
+    position: absolute;
+    top: 0;
+    left: 90px;
+}
+
+.copyrights-text {
+    color: #858571;
+    font-size: 19.5px;
+    position: absolute;
+    top: 0;
+    left: 90px;
+    top: 40px;
+}
+
+.share-btn {
+    position: absolute;
+    padding: 17px 10px;
+    background-color: #e64818;
+    right: 0;
+}
+.footer-logo {
+    position: absolute;
+    right: 400px;
+    top: 160px;
+    background-color: silver;
+}
+.copy-rights {
+    width: 100%;
+    position: absolute;
+    top: 1825px;
+}
+.text-footer {
+    position: absolute;
+    left: 334px;
+    top: 0;
+}
+
+.text-footer-1 {
+    position: absolute;
+    left: 358px;
+    top: 25px;
+    padding-bottom: 80px;
+
+}
